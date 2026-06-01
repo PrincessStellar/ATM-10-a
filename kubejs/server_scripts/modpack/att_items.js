@@ -16,13 +16,12 @@ ServerEvents.recipes(allthemods => {
   }).id('allthemods:allthetweaks/dragon_soul')
 
  // Improbable Probability Device
- allthemods.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CGC', 'FDF'], {
+ allthemods.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CBC', 'FDF'], {
   A: 'mekanism:pellet_antimatter',
   B: 'ae2:singularity',
   C: Ingredient.of(['megacells:portable_item_cell_256m', 'modern_industrialization:blastproof_casing']),
   D: 'pneumaticcraft:aerial_interface',
-  F: 'ironfurnaces:million_furnace', 
-  G: 'irons_spellbooks:lightning_upgrade_orb'
+  F: 'ironfurnaces:million_furnace'
   }).id('allthemods:allthetweaks/improbable_probability_device')
 
   // Dimensional Seed Recipe
@@ -39,12 +38,11 @@ ServerEvents.recipes(allthemods => {
   }).id('allthemods:allthetweaks/dimensional_seed')
 
   // Withers Compass
-  allthemods.shaped('allthetweaks:withers_compass', ['ABC', 'DEF', 'GHI'], {
+  allthemods.shaped('allthetweaks:withers_compass', ['ABC', 'D F', 'GHI'], {
     A: 'productivebees:configurable_comb[productivebees:bee_type="productivebees:withered"]',
     B: 'industrialforegoing:wither_builder',
     C: 'deeperdarker:heart_of_the_deep',
     D: 'generatorgalore:netherstar_generator_64x',
-    E: 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]',
     F: 'mysticalagriculture:witherproof_bricks',
     G: 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]',
     H: 'ars_nouveau:glyph_wither',

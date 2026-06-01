@@ -105,31 +105,10 @@ ServerEvents.recipes(allthemods => {
     cloche(crop, mod)
   })
   
-
-  //Pam's seeds
-  const pamSeeds = []
-  Ingredient.of("#c:seeds").itemIds.forEach(seed => {
-    if (seed.includes('pamhc2crops'&&'seeditem')){
-      let crop = {seed: seed.replace('pamhc2crops:', ''), render: seed.replace('pamhc2crops', '').replace('seeditem', 'crop').replace(':', 'pam'), result: seed.replace('pamhc2crops:', '').replace('seeditem', 'item')}
-      pamSeeds.push(crop)
-    }
-  })
-  pamSeeds.forEach(crop => {
-    let mod = 'pamhc2crops:'
-    cloche(crop, mod)
-  })
-
   //Sushi seeds
   const sushiPlants = [{seed: 'soy_seeds', render: 'soy_crop', result: 'soy_bean'}, {seed: 'wasabi_seeds', render: 'wasabi_crop', result: 'wasabi_root'}, {seed: 'sesame_seeds', render: 'sesame_crop', result: 'sesame_seed'}, {seed: 'rice_seeds', render: 'rice_crop', result: 'rice'}, {seed: 'cucumber_seeds', render: 'cucumber_crop', result: 'cucumber'}, ]
   sushiPlants.forEach(crop => {
     let mod = 'sushigocrafting:'
-    cloche(crop, mod)
-  })
-
-  //Silentgear seeds (needs flax too, 3 outputs)
-  const silentPlants = [{seed: 'fluffy_seeds', render: 'fluffy_plant', result: 'fluffy_puff'}]
-  silentPlants.forEach(crop => {
-    let mod = 'silentgear:'
     cloche(crop, mod)
   })
 
@@ -144,13 +123,6 @@ ServerEvents.recipes(allthemods => {
   const suppSeeds = [{seed: 'flax_seeds', render: 'flax', result: 'flax'}]
   suppSeeds.forEach(crop => {
     let mod = 'supplementaries:'
-    cloche(crop, mod)
-  })
-  
-  //Biomes we've gone seeds
-  const biomesSeeds = [{seed: 'pale_pumpkin_seeds', render: 'pale_pumpkin_stem', result: 'pale_pumpkin', chance: 0.01, count: 1}]
-  biomesSeeds.forEach(crop => {
-    let mod = 'biomeswevegone:'
     cloche(crop, mod)
   })
 

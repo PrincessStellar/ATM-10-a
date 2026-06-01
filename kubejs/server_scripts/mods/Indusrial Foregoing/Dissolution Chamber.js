@@ -44,21 +44,6 @@ ServerEvents.recipes(allthemods => {
     )
 
     dissolution_chamber([
-        '#c:plastics',
-        '#c:gears/iron',
-        '#c:plastics',
-        'minecraft:echo_shard',
-        'minecraft:echo_shard',
-        '#c:plastics',
-        '#c:gears/iron',
-        '#c:plastics',
-    ],
-        "20x industrialforegoing:pink_slime", 
-        20,
-        "32x industrialforegoingsouls:soul_network_pipe"
-    )
-
-    dissolution_chamber([
         'minecraft:glass_bottle'
     ],
         "250x #c:experience",

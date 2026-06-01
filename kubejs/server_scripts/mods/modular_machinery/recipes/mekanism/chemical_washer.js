@@ -24,8 +24,6 @@ ServerEvents.recipes(allthemods => {
         'allthemodium:dirty_allthemodium' : 'allthemodium:clean_allthemodium',
         'allthemodium:dirty_vibranium' : 'allthemodium:clean_vibranium',
         'allthemodium:dirty_unobtainium' : 'allthemodium:clean_unobtainium',
-        'kubejs:dirty_crimson_iron' : 'kubejs:clean_crimson_iron',
-        'kubejs:dirty_azure_silver' : 'kubejs:clean_azure_silver',
     }
 
     for (const [input, output] of Object.entries(recipes)) {

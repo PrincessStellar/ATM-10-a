@@ -8,8 +8,6 @@ const seedID = [
     'mysticalagriculture:unexplored_wood_seeds',
     'mysticalagriculture:unobtainium_seeds',
     'mysticalagriculture:vibranium_seeds',
-    'mysticalagriculture:crimson_iron_seeds',
-    'mysticalagriculture:azure_silver_seeds',
     'mysticalagriculture:entro_seeds',
     'mysticalagriculture:sky_steel_seeds',
     'mysticalagriculture:xychorium_gem_seeds',

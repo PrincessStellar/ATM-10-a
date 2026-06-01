@@ -65,9 +65,6 @@ ServerEvents.tags('item', allthemods => {
     '#c:dusts/vibranium_allthemodium_alloy',
   ])
 
-  allthemods.add('c:storage_blocks', '#c:storage_blocks/raw_crimson_iron')
-  allthemods.add('c:storage_blocks', '#c:storage_blocks/raw_azure_silver')
-
   // Essence Blocks
   allthemods.add('c:storage_blocks/air_essence', 'kubejs:air_essence_block')
   allthemods.add('c:storage_blocks/earth_essence', 'kubejs:earth_essence_block')
@@ -117,9 +114,7 @@ ServerEvents.tags('item', allthemods => {
     "modern_industrialization:runic_crucible",
     "modern_industrialization:runic_enchanter"
   ])
-  
-  // Trial Vault Repeatability for Decrepit Keys
-  allthemods.add("repeatable_trial_vaults:can_reset_trial_vaults","irons_spellbooks:decrepit_key")
+
 })
 
 ServerEvents.tags('entity_type', allthemods => {
@@ -524,13 +519,6 @@ ServerEvents.tags('worldgen/biome', allthemods => {
   allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
 });
 
-ServerEvents.tags('mob_effect', allthemods => {
-  
-  allthemods.add('irons_spellbooks:cleanse_immune', [
-    "cataclysm:ghost_sickness"
-  ]);
-
-});
 
 // cataclysm:ghost_sickness
 
