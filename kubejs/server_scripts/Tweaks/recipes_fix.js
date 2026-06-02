@@ -80,18 +80,6 @@ KubeJSTweaks.beforeRecipes(event => {
       entry.addConditionsFromKey("key")
     })
 
-
-  // Fix a typo, they missed a `s`
-  event.getEntry([
-    "mekanism:compat/biomeswevegone/enriching/dacite/conversion_dacite_tile",
-    "mekanism:compat/biomeswevegone/crushing/dacite/conversion_dacite_cobblestone",
-    "mekanism:compat/biomeswevegone/enriching/dacite/conversion_dacite_bricks",
-    "mekanism:compat/biomeswevegone/crushing/dacite/conversion_dacite_tile"
-  ]).forEach(entry => {
-    entry.replaceValueAtKey("input", "item", "biomeswevegone:dacite_tile", "biomeswevegone:dacite_tiles")
-    entry.replaceValueAtKey("output", "id", "biomeswevegone:dacite_tile", "biomeswevegone:dacite_tiles")
-  })
-
   // Another typo, a wild `'` at the name of the item
   event.getEntry("mekmm:compat/ars_nouveau/planting/magebloom").forEach(entry => {
     entry.fromPath("secondary_output.id").ifPresent(result => {
@@ -165,11 +153,6 @@ KubeJSTweaks.beforeRecipes(event => {
   event.getEntry(["mekmm:compat/immersiveengineering/lathe/aluminum_stick", "mekmm:compat/immersiveengineering/lathe/steel_stick"])
     .forEach(entry => {
       entry.renameKey("main_input", "input", false)
-    })
-
-  event.getEntry(/^create:.*\/compat\/(biomeswevegone|silentgems)\//)
-    .forEach(entry => {
-      entry.addConditionsFromKey("ingredients")
     })
 
   event.getEntry("farmersdelight:integration/create/filling/chocolate_pie")

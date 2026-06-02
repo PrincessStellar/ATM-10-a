@@ -61,7 +61,6 @@ MMREvents.machines(allthemods => {
                     "G":["apothic_enchanting:echoing_sculkshelf"],
                     "H":["minecraft:enchanting_table"],
                     "I":["minecraft:soul_lantern"],
-                    "J":["biomeswevegone:ebony_fence"],
                     "K":["forbidden_arcanus:quantum_injector"],
                     "L":["eternal_starlight:lunar_fence"],
                     "M":["forbidden_arcanus:polished_darkstone_wall"],

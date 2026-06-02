@@ -41,18 +41,6 @@ StartupEvents.registry('item', allthemods => {
         .sourceName("Iesnium")
         .derivativeTier("precious")
         .sulfurType("metals")
-    //Irons
-    allthemods.create('mithril_sulfur', 'theurgy:alchemical_sulfur')
-        .sourceItem('irons_spellbooks:mithril_ingot')
-        .sourceName("Mithril")
-        .derivativeTier("precious")
-        .sulfurType("metals")
-    //Silent
-    allthemods.create('bort_sulfur', 'theurgy:alchemical_sulfur')
-        .sourceItem('silentgear:bort')
-        .sourceName("Bort")
-        .derivativeTier("rare")
-        .sulfurType("earthen_matters")
         
 })
 

@@ -51,12 +51,6 @@ ServerEvents.recipes(allthemods => {
             'ingot': '#c:ingots/mithril',
             'raw': '#c:raw_materials/mithril',
             'amount': 20
-        },
-        'bort_sulfur': {
-            'ore': '#c:ores/bort',
-            'ingot': '#c:gems/bort',
-            'raw': null,
-            'amount': 100
         }
     }
 

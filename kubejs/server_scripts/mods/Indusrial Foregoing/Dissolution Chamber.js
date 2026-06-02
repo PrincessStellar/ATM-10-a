@@ -14,36 +14,6 @@ ServerEvents.recipes(allthemods => {
     )
 
     dissolution_chamber([
-        '#c:plastics',
-        'minecraft:sculk_shrieker',
-        '#c:plastics',
-        '#industrialforegoing:machine_frame/supreme',
-        '#industrialforegoing:machine_frame/supreme',
-        '#c:gears/netherite',
-        'minecraft:sculk_catalyst',
-        '#c:gears/netherite',
-    ],
-        "1000x justdirethings:unstable_portal_fluid_source", 
-        200,
-        "industrialforegoingsouls:soul_laser_base"
-    )
-
-    dissolution_chamber([
-        '#c:plastics',
-        'minecraft:sculk_shrieker',
-        '#c:plastics',
-        'minecraft:echo_shard',
-        'minecraft:echo_shard',
-        '#industrialforegoing:machine_frame/simple',
-        'minecraft:echo_shard',
-        '#industrialforegoing:machine_frame/simple',
-    ],
-        "20x justdirethings:unstable_portal_fluid_source", 
-        50,
-        "4x industrialforegoingsouls:soul_surge"
-    )
-
-    dissolution_chamber([
         'minecraft:glass_bottle'
     ],
         "250x #c:experience",

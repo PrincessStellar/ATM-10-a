@@ -45,7 +45,6 @@ ServerEvents.tags('item', allthemods => {
         '#deeperdarker:bloom_stems',
         "#deeperdarker:echo_logs",
         "#evilcraft:undead_logs",
-        "aquaculture:driftwood",
         "allthemodium:stripped_ancient_log"
     ])
 })

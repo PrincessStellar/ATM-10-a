@@ -11,8 +11,7 @@ ServerEvents.tags('item',allthemods => {
         sulfur_sulfur: { derivativeTier: "common", sulfurType: "misc" },
         prosperity_sulfur: { derivativeTier: "common", sulfurType: "misc" },
         iesnium_sulfur: { derivativeTier: "precious", sulfurType: "metals" },
-        mithril_sulfur: { derivativeTier: "precious", sulfurType: "metals" },
-        bort_sulfur: { derivativeTier: "rare", sulfurType: "earthen_matters" }
+        mithril_sulfur: { derivativeTier: "precious", sulfurType: "metals" }
     };
 
     for (let sulfurName in sulfurData) {
