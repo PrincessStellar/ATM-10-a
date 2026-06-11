@@ -410,40 +410,6 @@
 			y: -2.0d
 		}
 		{
-			hide_dependency_lines: true
-			id: "3D5852E6D0ADF651"
-			rewards: [
-				{
-					count: 4
-					id: "685834F0A29F6B78"
-					item: {
-						count: 1
-						id: "dimstorage:dim_wall"
-					}
-					type: "item"
-				}
-				{
-					id: "23BB43C549C90515"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [
-				{
-					id: "44C764E9E235DA2E"
-					item: { count: 1, id: "dimstorage:dimensional_chest" }
-					type: "item"
-				}
-				{
-					id: "200CAEB425AE9FC4"
-					item: { count: 1, id: "dimstorage:dimensional_tank" }
-					type: "item"
-				}
-			]
-			x: -2.0d
-			y: 0.0d
-		}
-		{
 			dependencies: ["072FBEB0F6F1BC48"]
 			id: "1A4B1CA7EC15348E"
 			rewards: [

@@ -1302,30 +1302,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(chipped:acacia_log)item_tag(chipped:birch_log)item_tag(chipped:cherry_log)item_tag(chipped:dark_oak_log)item_tag(chipped:jungle_log)item_tag(chipped:mangrove_log)item_tag(chipped:oak_log)item_tag(chipped:spruce_log)item_tag(chipped:warped_stem)item_tag(chipped:crimson_stem))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -5.5d
+			x: -4.5d
 			y: -6.5d
-		}
-		{
-			dependencies: ["61BE7882EE0E6FAF"]
-			icon: {
-				id: "biomeswevegone:palo_verde_log"
-			}
-			id: "4EA2DB12E8F0068F"
-			rewards: [{
-				id: "4067337B7C0CBED9"
-				item: {
-					count: 1
-					id: "naturescompass:naturescompass"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "61FFB3326113FE18"
-				item: { components: { "ftbfiltersystem:filter": "and(item_tag(minecraft:logs)mod(biomeswevegone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: -5.5d
 		}
 		{
 			dependencies: ["61BE7882EE0E6FAF"]
@@ -1356,8 +1334,8 @@
 				item: { components: { "ftbfiltersystem:filter": "and(item_tag(minecraft:logs)mod(productivetrees))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: -7.0d
+			x: -3.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["61BE7882EE0E6FAF"]
@@ -1645,7 +1623,7 @@
 		{
 			dependencies: ["3ED8365BAD406CC5"]
 			icon: {
-				id: "farmersdelight:basket"
+				id: "farmersdelight:bamboo_basket"
 			}
 			id: "5D5563142917495A"
 			rewards: [
@@ -1827,52 +1805,6 @@
 			tasks: [{
 				id: "27BABC4910038807"
 				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:deepslate)item(minecraft:stone)item(minecraft:granite)item(minecraft:andesite)item(minecraft:diorite)item(minecraft:tuff)item(minecraft:blackstone)item(minecraft:basalt))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -2.5d
-		}
-		{
-			dependencies: ["09955CF85F579E0F"]
-			icon: {
-				id: "biomeswevegone:red_rock"
-			}
-			id: "537B39B42C7D21ED"
-			rewards: [{
-				count: 16
-				id: "02DCDE13671067D7"
-				item: {
-					count: 1
-					id: "biomeswevegone:rocky_stone"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1AD43F80F89DF9D9"
-				item: { components: { "ftbfiltersystem:filter": "or(item(biomeswevegone:dacite)item(biomeswevegone:red_rock)item(biomeswevegone:mossy_stone)item(biomeswevegone:rocky_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["09955CF85F579E0F"]
-			icon: {
-				id: "eternal_starlight:nebulaite"
-			}
-			id: "313F5AFF459201EB"
-			rewards: [{
-				count: 3
-				id: "7EA7FDCE5E42E77A"
-				item: {
-					count: 1
-					id: "eternal_starlight:raw_amaramber"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "58B9B9D13F4CD1B2"
-				item: { components: { "ftbfiltersystem:filter": "and(mod(eternal_starlight)item_tag(c:stones))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -2617,7 +2549,7 @@
 			}]
 			tasks: [{
 				id: "6AA15FFFC5961428"
-				item: { components: { "relics:data": { abilities: { abilities: { claws: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.20861d } } }, fast_mining: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.32347d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:digging_claws" }
+				item: { components: { "relics:data": { abilities: { abilities: { digging: { lock: { breaks: 5 }, points: 0, stats: { bare_hands_speed: { initialQuality: 8 }, momentum_per_block: { initialQuality: 9 }, momentum_window: { initialQuality: 5 }, speed: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:digging_claws" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -2725,22 +2657,6 @@
 			}]
 			x: 9.5d
 			y: -8.5d
-		}
-		{
-			dependencies: ["22D2CFDDB06C720C"]
-			id: "44BD0B40EB5451AF"
-			rewards: [{
-				id: "548F2F428EB3BEDE"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "44BDEA5268F6ABE6"
-				item: { components: { "ftbfiltersystem:filter": "or(item(minecolonies:supplychestdeployer)item(minecolonies:supplycampdeployer))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -9.0d
 		}
 		{
 			dependencies: ["22D2CFDDB06C720C"]
@@ -3004,7 +2920,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(undergarden:cloggrum_block)item(undergarden:regalium_block)item(undergarden:froststeel_block)item(undergarden:forgotten_block)item(undergarden:utherium_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -7.5d
+			x: -7.0d
 			y: 1.5d
 		}
 		{
@@ -3028,7 +2944,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -8.0d
+			y: -8.5d
 		}
 		{
 			id: "266127E7947CB3D4"
@@ -3038,109 +2954,6 @@
 			}]
 			x: 5.0d
 			y: -14.0d
-		}
-		{
-			dependencies: ["0596F6C70758EEC0"]
-			id: "5C2B30655A44227F"
-			rewards: [
-				{
-					count: 3
-					id: "0BAA616086292311"
-					item: {
-						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "749AB3355844BC45"
-					item: {
-						count: 1
-						id: "eternal_starlight:aethersent_ingot"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "7EA09CF1F7465D91"
-					item: {
-						count: 1
-						id: "eternal_starlight:glacite_shard"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "7F4B0ED8CBBF035C"
-					item: {
-						count: 1
-						id: "eternal_starlight:thermal_springstone_ingot"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "0D1F556618F008B4"
-				item: { components: { "ftbfiltersystem:filter": "or(item(eternal_starlight:aethersent_block)item(eternal_starlight:glacite)item(eternal_starlight:thermal_springstone)item(eternal_starlight:swamp_silver_block)item(eternal_starlight:oxidized_golem_steel_block)item(eternal_starlight:golem_steel_block)item(eternal_starlight:thioquartz_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -6.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["61BE7882EE0E6FAF"]
-			id: "10A2E758D7743DD0"
-			rewards: [
-				{
-					id: "39F74E3345C495C5"
-					item: {
-						count: 1
-						id: "eternal_starlight:lunar_sapling"
-					}
-					type: "item"
-				}
-				{
-					id: "37459FF44A9EFBCC"
-					item: {
-						count: 1
-						id: "eternal_starlight:torreya_sapling"
-					}
-					type: "item"
-				}
-				{
-					id: "3FF3699A69704236"
-					item: {
-						count: 1
-						id: "eternal_starlight:scarlet_sapling"
-					}
-					type: "item"
-				}
-				{
-					id: "0373862509ECD6E7"
-					item: {
-						count: 1
-						id: "eternal_starlight:starlight_mangrove_sapling"
-					}
-					type: "item"
-				}
-				{
-					count: 4
-					id: "6F8D2772ADE7F4A0"
-					item: {
-						count: 1
-						id: "eternal_starlight:northland_sapling"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "7A119F7B40F2D64D"
-				item: { components: { "ftbfiltersystem:filter": "or(item(eternal_starlight:scarlet_log)item(eternal_starlight:lunar_log)item(eternal_starlight:northland_log)item(eternal_starlight:starlight_mangrove_log)item(eternal_starlight:torreya_log)item(eternal_starlight:dead_lunar_log))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -3.5d
-			y: -6.5d
 		}
 		{
 			dependencies: ["0A21773B773F34F8"]

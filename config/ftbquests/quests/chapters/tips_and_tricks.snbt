@@ -105,7 +105,6 @@
 				"32ECD93A8F2FAB8F"
 				"47043AF7D1FABC43"
 				"51538F4DCE24E3E7"
-				"6E17595887A051C2"
 				"01EC5DB1A4A25B0B"
 				"69F7A0DE8D70AC44"
 				"2837E05AD0B67189"
@@ -469,44 +468,6 @@
 			}]
 			x: 1.5d
 			y: 2.0d
-		}
-		{
-			dependencies: ["28E60192912BEBAD"]
-			hide_until_deps_complete: true
-			id: "6E17595887A051C2"
-			min_width: 300
-			rewards: [
-				{
-					count: 2
-					id: "41BC2E08BA4E2BC7"
-					item: {
-						components: {
-							"easy_villagers:villager": { }
-						}
-						count: 1
-						id: "easy_villagers:villager"
-					}
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "3D882840678CDAD4"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "54539646780D2270"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [{
-				id: "6E44925E265DC7E2"
-				item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:forge_hammer)item(ae2:charger)item(actuallyadditions:coffee_machine)item(ars_nouveau:arcane_core)item(biomeswevegone:foragers_table)item(railcraft:manual_rolling_machine)item(railcraft:powered_rolling_machine)item(immersiveengineering:craftingtable)item(immersiveengineering:workbench)item(immersiveengineering:circuit_table)item(immersiveengineering:turntable)item(minecraft:white_banner)item(pneumaticcraft:charging_station)item(sawmill:sawmill)item_tag(productivebees:advanced_beehives))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 3.5d
 		}
 		{
 			id: "01EC5DB1A4A25B0B"

@@ -1110,8 +1110,11 @@
 				{
 					id: "2959A3E2AC7AD0FA"
 					item: {
+						components: {
+							"ftbquests:missing_item": "industrialization_overdrive:terminal"
+						}
 						count: 1
-						id: "industrialization_overdrive:terminal"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -1431,10 +1434,7 @@
 			y: 4.0d
 		}
 		{
-			dependencies: [
-				"6F57BE412A7BE84E"
-				"79C9875A1A494762"
-			]
+			dependencies: ["6F57BE412A7BE84E"]
 			dependency_requirement: "one_completed"
 			id: "5CD0E6F349F2F32D"
 			rewards: [{
@@ -1542,24 +1542,6 @@
 			}]
 			x: 15.5d
 			y: 3.0d
-		}
-		{
-			id: "79C9875A1A494762"
-			rewards: [{
-				id: "53DDDA79FB756C15"
-				item: {
-					count: 1
-					id: "minecraft:emerald"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0B79080463C860ED"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(the_bumblezone:bee_queen/dedicated_trade_tags/modded/utilitarian_soliciting_carpets))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 1.5d
 		}
 		{
 			icon: {

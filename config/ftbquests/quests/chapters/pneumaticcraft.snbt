@@ -1540,8 +1540,11 @@
 				{
 					id: "618C5C25773A6B26"
 					item: {
+						components: {
+							"ftbquests:missing_item": "pamhc2foodcore:potatochipsitem"
+						}
 						count: 1
-						id: "pamhc2foodcore:potatochipsitem"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}

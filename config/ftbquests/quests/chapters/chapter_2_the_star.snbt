@@ -37,8 +37,8 @@
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 7.5d
-			x: -10.0d
-			y: 5.5d
+			x: -10.392857142857139d
+			y: 5.142857142857153d
 		}
 		{
 			height: 3.0d
@@ -61,16 +61,16 @@
 			image: "atm:textures/questpics/mek/sps_cutout.png"
 			rotation: 0.0d
 			width: 3.8063063063063063d
-			x: -13.5d
-			y: 14.0d
+			x: -14.0d
+			y: 13.5d
 		}
 		{
 			height: 3.0d
 			image: "atm:textures/questpics/justdirethings/goo_spread_ferricore.png"
 			rotation: 0.0d
 			width: 3.003550295857988d
-			x: -11.0d
-			y: 16.5d
+			x: -13.0d
+			y: 3.5d
 		}
 		{
 			height: 3.0d
@@ -93,7 +93,7 @@
 			image: "atm:textures/questpics/gettingstarted/started_pressure.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: -14.5d
+			x: -15.5d
 			y: 0.5d
 		}
 		{
@@ -177,28 +177,12 @@
 			y: 12.0d
 		}
 		{
-			height: 2.0d
-			image: "atm:textures/questpics/iron_spells/spells_anvil.png"
-			rotation: 0.0d
-			width: 1.9232409381663114d
-			x: -6.5d
-			y: 15.5d
-		}
-		{
 			height: 5.0d
 			image: "immersiveengineering:textures/gui/workbench.png"
 			rotation: 0.0d
 			width: 5.0d
 			x: 11.5d
 			y: 17.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/iron_spells/spells_scroll.png"
-			rotation: 0.0d
-			width: 2.3376623376623376d
-			x: -2.0d
-			y: 12.0d
 		}
 		{
 			height: 2.0d
@@ -422,7 +406,6 @@
 				"501A0AEEC73C0790"
 				"2F76D074AEA84A4D"
 				"14B7EEBE0F6C2776"
-				"5A955C0F53AED3ED"
 				"2A444F4CCC72545D"
 			]
 			id: "4E82E843737045D9"
@@ -471,7 +454,6 @@
 			dependencies: [
 				"5869E198DA416346"
 				"39F9C825B03DA317"
-				"45D10F53CA18B8EE"
 				"0848056FDD3F9BDA"
 				"6A12188E50EAEB78"
 				"49FDD8666356A3E7"
@@ -796,7 +778,6 @@
 				"23254CE8487D2E68"
 				"750B6316267CF574"
 				"4CB488E5CF10F3A4"
-				"7BC616DDB5933479"
 				"57F107892FFA1F52"
 				"3F8AEBB994716318"
 				"5791F3000D18E2C9"
@@ -1103,8 +1084,8 @@
 				item: { count: 1, id: "justdirethings:paradoxmachine" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 12.0d
+			x: -6.25d
+			y: 11.875d
 		}
 		{
 			dependencies: ["2B57C8D2F98A9279"]
@@ -1338,36 +1319,6 @@
 			}]
 			x: 10.0d
 			y: 14.0d
-		}
-		{
-			dependencies: ["340CDF4357E22A43"]
-			hide_dependent_lines: true
-			id: "7BC616DDB5933479"
-			rewards: [
-				{
-					count: 3
-					id: "0B63779F27F3A6D3"
-					item: {
-						count: 1
-						id: "irons_spellbooks:legendary_ink"
-					}
-					type: "item"
-				}
-				{
-					id: "7EB85603948FBAF0"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "14D445E233DC9A67"
-				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:wither_skull", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 0b } }, count: 1, id: "irons_spellbooks:scroll" }
-				match_components: "strict"
-				type: "item"
-			}]
-			x: -6.0d
-			y: 10.0d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -1992,39 +1943,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["792990DC06DB98F9"]
-			hide_dependent_lines: true
-			id: "5A955C0F53AED3ED"
-			rewards: [
-				{
-					id: "0F75EAD9F484C2E0"
-					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "minecraft:long_slow_falling"
-							}
-						}
-						count: 1
-						id: "minecraft:potion"
-					}
-					type: "item"
-				}
-				{
-					id: "380FA10061181418"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "72B1A51128C4AE99"
-				item: { count: 1, id: "eternal_starlight:chain_of_souls" }
-				type: "item"
-			}]
-			x: 12.0d
-			y: -2.0d
-		}
-		{
 			dependencies: ["0573B6F1BE5110FD"]
 			hide_dependent_lines: true
 			id: "3BE5CD0C7CC4BCC6"
@@ -2319,35 +2237,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["340CDF4357E22A43"]
-			hide_dependent_lines: true
-			id: "45D10F53CA18B8EE"
-			rewards: [
-				{
-					count: 4
-					id: "5E5C4E952ED07415"
-					item: {
-						count: 1
-						id: "irons_spellbooks:lightning_rune"
-					}
-					type: "item"
-				}
-				{
-					id: "18B8636E4C89D1C5"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "79141C8F25816860"
-				item: { count: 1, id: "irons_spellbooks:lightning_upgrade_orb" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: 10.0d
-		}
-		{
 			dependencies: ["4485C4ABD57874EB"]
 			hide_dependent_lines: true
 			id: "0848056FDD3F9BDA"
@@ -2614,7 +2503,7 @@
 				type: "item"
 			}]
 			x: -10.0d
-			y: 14.0d
+			y: 13.75d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
@@ -3005,50 +2894,6 @@
 		}
 		{
 			icon: {
-				components: {
-					"irons_spellbooks:spell_container": {
-						data: [{
-							id: "irons_spellbooks:invisibility"
-							index: 0
-							level: 2
-							locked: 1b
-						}]
-						maxSpells: 1
-						mustEquip: 0b
-						spellWheel: 0b
-					}
-				}
-				id: "irons_spellbooks:scroll"
-			}
-			id: "340CDF4357E22A43"
-			rewards: [
-				{
-					count: 5
-					id: "4D8A5DE5D26D5838"
-					item: {
-						count: 1
-						id: "irons_spellbooks:arcane_essence"
-					}
-					type: "item"
-				}
-				{
-					id: "539532A204C98799"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "14C0CA9C756B3ABD"
-				item: { count: 1, id: "irons_spellbooks:arcane_essence" }
-				type: "item"
-			}]
-			x: -4.5d
-			y: 13.5d
-		}
-		{
-			icon: {
 				id: "pneumaticcraft:air_compressor"
 			}
 			id: "3AAB71E9BDFD4C1E"
@@ -3249,8 +3094,8 @@
 				item: { count: 1, id: "alltheores:steel_ingot" }
 				type: "item"
 			}]
-			x: -13.5d
-			y: 16.5d
+			x: -14.0d
+			y: 16.0d
 		}
 		{
 			icon: {
@@ -3343,23 +3188,6 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: 1.0d
-		}
-		{
-			id: "792990DC06DB98F9"
-			rewards: [{
-				id: "72C0A302BACE0C74"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "2065DC263D762764"
-				item: { count: 1, id: "eternal_starlight:book" }
-				type: "item"
-			}]
-			x: 14.0d
 			y: -2.0d
 		}
 		{
@@ -3507,8 +3335,8 @@
 				item: { count: 1, id: "justdirethings:gooblock_tier1" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: 15.5d
+			x: -5.0d
+			y: 10.0d
 		}
 		{
 			id: "7A579E233C69871F"
@@ -4229,7 +4057,7 @@
 				item: { count: 1, id: "oritech:magnetic_coil" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -3.0d
 			y: 10.0d
 		}
 	]

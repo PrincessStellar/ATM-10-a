@@ -1014,8 +1014,11 @@
 			rewards: [{
 				id: "2CB69F170CB4080D"
 				item: {
+					components: {
+						"ftbquests:missing_item": "transfer_labels:label_accessor"
+					}
 					count: 1
-					id: "transfer_labels:label_accessor"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]

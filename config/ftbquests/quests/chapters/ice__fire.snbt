@@ -321,7 +321,7 @@
 			y: -49.5d
 		}
 	]
-	order_index: 4
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -1122,7 +1122,8 @@
 			]
 			icon: {
 				components: {
-					"ftbquests:icon": "iceandfire:textures/entity_icon/troll/troll_mountain.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "iceandfire:troll"
 				}
 				id: "ftbquests:custom_icon"
 			}

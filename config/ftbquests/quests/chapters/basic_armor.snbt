@@ -14,7 +14,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_title.png"
 			rotation: 0.0d
 			width: 13.30952380952381d
-			x: 4.0d
+			x: 4.099999999999994d
 			y: -0.5d
 		}
 		{
@@ -22,23 +22,23 @@
 			image: "atm:textures/questpics/basicarmor/armor_trims.png"
 			rotation: 0.0d
 			width: 9.982142857142858d
-			x: -3.5d
-			y: 6.0d
+			x: -6.9d
+			y: 5.0d
 		}
 		{
 			height: 1.5d
 			image: "atm:textures/questpics/basicarmor/armor_colors.png"
 			rotation: 0.0d
 			width: 9.5d
-			x: 15.5d
-			y: 6.0d
+			x: 16.7d
+			y: 4.9d
 		}
 		{
 			height: 1.0d
 			image: "atm:textures/questpics/basicarmor/armor_7.png"
 			rotation: 0.0d
 			width: 0.8059701492537313d
-			x: -10.5d
+			x: -9.5d
 			y: -7.5d
 		}
 		{
@@ -54,8 +54,8 @@
 			image: "atm:textures/questpics/basicarmor/armor_20.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
-			x: 6.5d
-			y: -11.5d
+			x: 7.4d
+			y: -8.5d
 		}
 		{
 			height: 1.0d
@@ -86,7 +86,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -11.5d
+			x: -10.3d
 			y: -7.5d
 		}
 		{
@@ -102,8 +102,8 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 5.5d
-			y: -11.5d
+			x: 6.4d
+			y: -8.5d
 		}
 		{
 			height: 1.0d
@@ -150,7 +150,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_redstone.png"
 			rotation: 0.0d
 			width: 1.859621451104101d
-			x: -3.0d
+			x: -4.5d
 			y: -0.5d
 		}
 		{
@@ -158,7 +158,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_bolt.png"
 			rotation: 0.0d
 			width: 1.9309791332263242d
-			x: -6.0d
+			x: -9.5d
 			y: -0.5d
 		}
 		{
@@ -166,7 +166,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_dune.png"
 			rotation: 0.0d
 			width: 1.7999999999999998d
-			x: -4.5d
+			x: -7.0d
 			y: -0.5d
 		}
 		{
@@ -174,7 +174,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_redstone.png"
 			rotation: 0.0d
 			width: 1.859621451104101d
-			x: 10.5d
+			x: 11.799999999999999d
 			y: -0.5d
 		}
 		{
@@ -182,7 +182,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_copper.png"
 			rotation: 0.0d
 			width: 1.735159817351598d
-			x: 12.0d
+			x: 13.299999999999999d
 			y: -0.5d
 		}
 		{
@@ -190,7 +190,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_emerald.png"
 			rotation: 0.0d
 			width: 1.8205928237129485d
-			x: 15.0d
+			x: 16.299999999999997d
 			y: -0.5d
 		}
 		{
@@ -198,7 +198,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_blue.png"
 			rotation: 0.0d
 			width: 1.7999999999999998d
-			x: 16.5d
+			x: 17.8d
 			y: -0.5d
 		}
 		{
@@ -206,7 +206,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_unobtainium.png"
 			rotation: 0.0d
 			width: 1.828125d
-			x: 18.0d
+			x: 19.3d
 			y: -0.5d
 		}
 		{
@@ -214,7 +214,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_netherite.png"
 			rotation: 0.0d
 			width: 1.7279635258358663d
-			x: 19.5d
+			x: 20.8d
 			y: -0.5d
 		}
 		{
@@ -222,7 +222,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_quartz.png"
 			rotation: 0.0d
 			width: 1.8177570093457944d
-			x: 21.0d
+			x: 22.3d
 			y: -0.5d
 		}
 		{
@@ -230,11 +230,11 @@
 			image: "atm:textures/questpics/basicarmor/armor_regalium.png"
 			rotation: 0.0d
 			width: 1.9340836012861735d
-			x: 13.5d
+			x: 14.799999999999999d
 			y: -0.5d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -268,7 +268,7 @@
 					type: "item"
 				}
 			]
-			x: -11.0d
+			x: -9.950000000000001d
 			y: -6.0d
 		}
 		{
@@ -567,40 +567,7 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -7.5d
-		}
-		{
-			id: "5BA84F6282D9CAF1"
-			optional: true
-			rewards: [{
-				id: "10A19B7282DDE348"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "4D08F450221DD06D"
-					item: { count: 1, id: "allthewizardgear:allthemodium_mage_helmet" }
-					type: "item"
-				}
-				{
-					id: "3F5264FBC0C2A15A"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "allthewizardgear:allthemodium_mage_chestplate" }
-					type: "item"
-				}
-				{
-					id: "2C04C6896A3E35D8"
-					item: { count: 1, id: "allthewizardgear:allthemodium_mage_leggings" }
-					type: "item"
-				}
-				{
-					id: "722BE826B52EB937"
-					item: { count: 1, id: "allthewizardgear:allthemodium_mage_boots" }
-					type: "item"
-				}
-			]
-			x: 11.5d
+			x: 12.0d
 			y: -7.5d
 		}
 		{
@@ -633,40 +600,7 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -7.5d
-		}
-		{
-			id: "4DD66E31859EA593"
-			optional: true
-			rewards: [{
-				id: "655A41CF09D93D96"
-				type: "xp_levels"
-				xp_levels: 10
-			}]
-			tasks: [
-				{
-					id: "2BD7C64FF209C548"
-					item: { count: 1, id: "allthewizardgear:vibranium_mage_helmet" }
-					type: "item"
-				}
-				{
-					id: "59782B7048223902"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "allthewizardgear:vibranium_mage_chestplate" }
-					type: "item"
-				}
-				{
-					id: "05E6E8D502E5B76F"
-					item: { count: 1, id: "allthewizardgear:vibranium_mage_leggings" }
-					type: "item"
-				}
-				{
-					id: "40A84D5058069AEF"
-					item: { count: 1, id: "allthewizardgear:vibranium_mage_boots" }
-					type: "item"
-				}
-			]
-			x: 16.5d
+			x: 17.0d
 			y: -7.5d
 		}
 		{
@@ -699,74 +633,8 @@
 					type: "item"
 				}
 			]
-			x: 20.5d
+			x: 20.0d
 			y: -7.5d
-		}
-		{
-			id: "24FDA15A7ACDF021"
-			optional: true
-			rewards: [{
-				id: "5EF163313A36DE52"
-				type: "xp_levels"
-				xp_levels: 15
-			}]
-			tasks: [
-				{
-					id: "45A8020E82609E2B"
-					item: { count: 1, id: "allthewizardgear:unobtainium_mage_helmet" }
-					type: "item"
-				}
-				{
-					id: "663CEEE412B08F35"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "allthewizardgear:unobtainium_mage_chestplate" }
-					type: "item"
-				}
-				{
-					id: "643488B9D59882CD"
-					item: { count: 1, id: "allthewizardgear:unobtainium_mage_leggings" }
-					type: "item"
-				}
-				{
-					id: "336D60DB74905889"
-					item: { count: 1, id: "allthewizardgear:unobtainium_mage_boots" }
-					type: "item"
-				}
-			]
-			x: 19.5d
-			y: -7.5d
-		}
-		{
-			id: "3416DB9F58D8AA2C"
-			optional: true
-			rewards: [{
-				id: "52F86E32FB5B4D9A"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "5C3D57C3DC6389D6"
-					item: { count: 1, id: "aquaculture:neptunium_helmet" }
-					type: "item"
-				}
-				{
-					id: "36A182140F11F8DA"
-					item: { count: 1, id: "aquaculture:neptunium_chestplate" }
-					type: "item"
-				}
-				{
-					id: "447F6633FCB0F52F"
-					item: { count: 1, id: "aquaculture:neptunium_leggings" }
-					type: "item"
-				}
-				{
-					id: "37A54B1EAC7AC3EC"
-					item: { count: 1, id: "aquaculture:neptunium_boots" }
-					type: "item"
-				}
-			]
-			x: 14.5d
-			y: -6.5d
 		}
 		{
 			id: "79D3055DE0EEA6B0"
@@ -800,39 +668,6 @@
 			]
 			x: -0.5d
 			y: -7.5d
-		}
-		{
-			id: "3D72E3E53E7306FA"
-			optional: true
-			rewards: [{
-				id: "10E0793A466BDD6E"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "47DF094A91017999"
-					item: { count: 1, id: "irons_spellbooks:pyromancer_helmet" }
-					type: "item"
-				}
-				{
-					id: "062EF3FD2019D7B0"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:pyromancer_chestplate" }
-					type: "item"
-				}
-				{
-					id: "30D52235BCC4F3F0"
-					item: { count: 1, id: "irons_spellbooks:pyromancer_leggings" }
-					type: "item"
-				}
-				{
-					id: "39800B70B41A6DB8"
-					item: { count: 1, id: "irons_spellbooks:pyromancer_boots" }
-					type: "item"
-				}
-			]
-			x: 5.5d
-			y: -10.5d
 		}
 		{
 			id: "7C1D407CF67786F6"
@@ -996,7 +831,7 @@
 					type: "item"
 				}
 			]
-			x: -0.5d
+			x: 0.0d
 			y: -9.5d
 		}
 		{
@@ -1029,7 +864,7 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
+			x: 6.0d
 			y: -4.5d
 		}
 		{
@@ -1066,138 +901,6 @@
 			y: -4.5d
 		}
 		{
-			id: "3260EDAD3A619479"
-			optional: true
-			rewards: [{
-				id: "48A31F437A38BFAC"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "7DF76CCA946FFB62"
-					item: { count: 1, id: "eternal_starlight:aethersent_hood" }
-					type: "item"
-				}
-				{
-					id: "03946DC5ADBBC657"
-					item: { count: 1, id: "eternal_starlight:aethersent_cape" }
-					type: "item"
-				}
-				{
-					id: "207706D3F119081D"
-					item: { count: 1, id: "eternal_starlight:aethersent_bottoms" }
-					type: "item"
-				}
-				{
-					id: "215D467B16C305A7"
-					item: { count: 1, id: "eternal_starlight:aethersent_boots" }
-					type: "item"
-				}
-			]
-			x: -2.0d
-			y: -6.0d
-		}
-		{
-			id: "50429F57480F44DA"
-			optional: true
-			rewards: [{
-				id: "07AE0FA43B5464D6"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "494C61837E233B58"
-					item: { count: 1, id: "eternal_starlight:thermal_springstone_helmet" }
-					type: "item"
-				}
-				{
-					id: "2AD58BF2916FC968"
-					item: { count: 1, id: "eternal_starlight:thermal_springstone_chestplate" }
-					type: "item"
-				}
-				{
-					id: "6D3E07BB6D334BED"
-					item: { count: 1, id: "eternal_starlight:thermal_springstone_leggings" }
-					type: "item"
-				}
-				{
-					id: "4FD071335DA99132"
-					item: { count: 1, id: "eternal_starlight:thermal_springstone_boots" }
-					type: "item"
-				}
-			]
-			x: 2.0d
-			y: -6.0d
-		}
-		{
-			id: "4664AFCFB5618CEB"
-			optional: true
-			rewards: [{
-				id: "4CE50AF5B49F283F"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "479E31348A23690C"
-					item: { count: 1, id: "eternal_starlight:glacite_helmet" }
-					type: "item"
-				}
-				{
-					id: "2E5D2CBF1D3BFD88"
-					item: { count: 1, id: "eternal_starlight:glacite_chestplate" }
-					type: "item"
-				}
-				{
-					id: "0467A83E14EF5D20"
-					item: { count: 1, id: "eternal_starlight:glacite_leggings" }
-					type: "item"
-				}
-				{
-					id: "52211CFC06C84C16"
-					item: { count: 1, id: "eternal_starlight:glacite_boots" }
-					type: "item"
-				}
-			]
-			x: 3.0d
-			y: -6.5d
-		}
-		{
-			id: "459BB5B4CDB21773"
-			optional: true
-			rewards: [{
-				id: "37A6CE8F11A87914"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "7FE454AB1A3D8C04"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_helmet" }
-					type: "item"
-				}
-				{
-					id: "336F743A90D79EA5"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_chestplate" }
-					type: "item"
-				}
-				{
-					id: "4FD31875EE131079"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_leggings" }
-					type: "item"
-				}
-				{
-					id: "0B2D12F2EEAE26B5"
-					item: { count: 1, id: "eternal_starlight:swamp_silver_boots" }
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: -2.5d
-		}
-		{
 			id: "50B127137AA9E660"
 			optional: true
 			rewards: [{
@@ -1229,336 +932,6 @@
 			]
 			x: -3.5d
 			y: -6.0d
-		}
-		{
-			id: "24A7B2902E7430A1"
-			optional: true
-			rewards: [{
-				id: "46D6F81E1F8C91C8"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "24D87A372567FCE5"
-					item: { count: 1, id: "irons_spellbooks:wandering_magician_helmet" }
-					type: "item"
-				}
-				{
-					id: "1DC839ADD66136D4"
-					item: { count: 1, id: "irons_spellbooks:wandering_magician_chestplate" }
-					type: "item"
-				}
-				{
-					id: "30D1AA84C7A507C5"
-					item: { count: 1, id: "irons_spellbooks:wandering_magician_leggings" }
-					type: "item"
-				}
-				{
-					id: "1EE367799BA96BF9"
-					item: { count: 1, id: "irons_spellbooks:wandering_magician_boots" }
-					type: "item"
-				}
-			]
-			x: 0.5d
-			y: -9.5d
-		}
-		{
-			id: "654F5C84114A31A1"
-			optional: true
-			rewards: [{
-				id: "232D3C9CDA8A8944"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "41EA09E06CA055F4"
-					item: { count: 1, id: "irons_spellbooks:pumpkin_helmet" }
-					type: "item"
-				}
-				{
-					id: "192AB69CEB7585A4"
-					item: { count: 1, id: "irons_spellbooks:pumpkin_chestplate" }
-					type: "item"
-				}
-				{
-					id: "624F1E893AE9E7E9"
-					item: { count: 1, id: "irons_spellbooks:pumpkin_leggings" }
-					type: "item"
-				}
-				{
-					id: "592BAD316F3275BF"
-					item: { count: 1, id: "irons_spellbooks:pumpkin_boots" }
-					type: "item"
-				}
-			]
-			x: 6.5d
-			y: -4.5d
-		}
-		{
-			id: "66B5A8D259E12BF5"
-			optional: true
-			rewards: [{
-				id: "4BA3A3DB5FF29E5C"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [
-				{
-					id: "77750FD86270FD2F"
-					item: { count: 1, id: "irons_spellbooks:netherite_mage_helmet" }
-					type: "item"
-				}
-				{
-					id: "5A62FAE7C177B00E"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:netherite_mage_chestplate" }
-					type: "item"
-				}
-				{
-					id: "1563E7EABDFF4AF3"
-					item: { count: 1, id: "irons_spellbooks:netherite_mage_leggings" }
-					type: "item"
-				}
-				{
-					id: "60002EF1B3828A05"
-					item: { count: 1, id: "irons_spellbooks:netherite_mage_boots" }
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: -4.5d
-		}
-		{
-			id: "215C9C2B2240FAA1"
-			optional: true
-			rewards: [{
-				id: "6B27511472F98844"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "19C6AB13CA7B79D6"
-					item: { count: 1, id: "irons_spellbooks:electromancer_helmet" }
-					type: "item"
-				}
-				{
-					id: "02141BE579678A73"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:electromancer_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5E24224627FD14BE"
-					item: { count: 1, id: "irons_spellbooks:electromancer_leggings" }
-					type: "item"
-				}
-				{
-					id: "41B2A38EB633090B"
-					item: { count: 1, id: "irons_spellbooks:electromancer_boots" }
-					type: "item"
-				}
-			]
-			x: 5.5d
-			y: -8.5d
-		}
-		{
-			id: "260C7F3C1F51221D"
-			optional: true
-			rewards: [{
-				id: "23F126EE59BC4AFB"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "7440B07C1B9B8878"
-					item: { count: 1, id: "irons_spellbooks:archevoker_helmet" }
-					type: "item"
-				}
-				{
-					id: "194F0DF3CF09C5A8"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:archevoker_chestplate" }
-					type: "item"
-				}
-				{
-					id: "6E776182DF373FB6"
-					item: { count: 1, id: "irons_spellbooks:archevoker_leggings" }
-					type: "item"
-				}
-				{
-					id: "72CF875930777373"
-					item: { count: 1, id: "irons_spellbooks:archevoker_boots" }
-					type: "item"
-				}
-			]
-			x: 5.5d
-			y: -9.5d
-		}
-		{
-			id: "0ED11FCF6298CE85"
-			optional: true
-			rewards: [{
-				id: "7467F8BA4AB076EC"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "02E57646DF78E34C"
-					item: { count: 1, id: "irons_spellbooks:cultist_helmet" }
-					type: "item"
-				}
-				{
-					id: "043F4965A3A81288"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:cultist_chestplate" }
-					type: "item"
-				}
-				{
-					id: "28DFCADF477E951A"
-					item: { count: 1, id: "irons_spellbooks:cultist_leggings" }
-					type: "item"
-				}
-				{
-					id: "04833184DFA37ECB"
-					item: { count: 1, id: "irons_spellbooks:cultist_boots" }
-					type: "item"
-				}
-			]
-			x: 5.5d
-			y: -7.5d
-		}
-		{
-			id: "686EB173C94301C0"
-			optional: true
-			rewards: [{
-				id: "5CB148F27099AF74"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "5BEB57C486C83646"
-					item: { count: 1, id: "irons_spellbooks:cryomancer_helmet" }
-					type: "item"
-				}
-				{
-					id: "61A97A4CF2FF73D9"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:cryomancer_chestplate" }
-					type: "item"
-				}
-				{
-					id: "7597ECA447168044"
-					item: { count: 1, id: "irons_spellbooks:cryomancer_leggings" }
-					type: "item"
-				}
-				{
-					id: "576C0C99938F5617"
-					item: { count: 1, id: "irons_spellbooks:cryomancer_boots" }
-					type: "item"
-				}
-			]
-			x: 6.5d
-			y: -9.5d
-		}
-		{
-			id: "361EF9E4973E3522"
-			optional: true
-			rewards: [{
-				id: "31506E8ED06D12D3"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "7B6BAE0AE29B6223"
-					item: { count: 1, id: "irons_spellbooks:shadowwalker_helmet" }
-					type: "item"
-				}
-				{
-					id: "586127E4A562D8E7"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:shadowwalker_chestplate" }
-					type: "item"
-				}
-				{
-					id: "79251A3ECFB8CA10"
-					item: { count: 1, id: "irons_spellbooks:shadowwalker_leggings" }
-					type: "item"
-				}
-				{
-					id: "139D64351967F934"
-					item: { count: 1, id: "irons_spellbooks:shadowwalker_boots" }
-					type: "item"
-				}
-			]
-			x: 6.5d
-			y: -8.5d
-		}
-		{
-			id: "4B65100885AE762D"
-			optional: true
-			rewards: [{
-				id: "42C7B31048CF3470"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "1DA0C43C492FD239"
-					item: { count: 1, id: "irons_spellbooks:priest_helmet" }
-					type: "item"
-				}
-				{
-					id: "525E12185BAAE9ED"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:priest_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5470DD5088DD6113"
-					item: { count: 1, id: "irons_spellbooks:priest_leggings" }
-					type: "item"
-				}
-				{
-					id: "419CDF2962616ECD"
-					item: { count: 1, id: "irons_spellbooks:priest_boots" }
-					type: "item"
-				}
-			]
-			x: 6.5d
-			y: -10.5d
-		}
-		{
-			id: "5391385A75535EC8"
-			optional: true
-			rewards: [{
-				id: "54BF0B8C750AC15A"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "386728EAA038889C"
-					item: { count: 1, id: "irons_spellbooks:plagued_helmet" }
-					type: "item"
-				}
-				{
-					id: "2F423CAB3674EBE5"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:plagued_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5069388A910BC404"
-					item: { count: 1, id: "irons_spellbooks:plagued_leggings" }
-					type: "item"
-				}
-				{
-					id: "5DDBF3D33B9E5050"
-					item: { count: 1, id: "irons_spellbooks:plagued_boots" }
-					type: "item"
-				}
-			]
-			x: 6.5d
-			y: -7.5d
 		}
 		{
 			id: "10AA2B20D86747F7"
@@ -1689,7 +1062,7 @@
 					type: "item"
 				}
 			]
-			x: -9.5d
+			x: -8.5d
 			y: -6.0d
 		}
 		{
@@ -1755,8 +1128,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -2.5d
+			x: 7.0d
+			y: -4.0d
 		}
 		{
 			id: "7FABB77A60E7962C"
@@ -1821,7 +1194,7 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
+			x: 6.5d
 			y: -7.5d
 		}
 		{
@@ -1855,7 +1228,7 @@
 					type: "item"
 				}
 			]
-			x: 24.0d
+			x: 23.25d
 			y: -6.0d
 		}
 		{
@@ -2153,7 +1526,7 @@
 				}
 			]
 			x: -2.0d
-			y: -7.0d
+			y: -6.5d
 		}
 		{
 			id: "3A2047CC0F59C6CC"
@@ -2186,73 +1559,7 @@
 				}
 			]
 			x: 3.0d
-			y: -5.5d
-		}
-		{
-			id: "7ADE27F9398D97F1"
-			optional: true
-			rewards: [{
-				id: "3E075A470A4E1016"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			tasks: [
-				{
-					id: "637DE372710E834F"
-					item: { count: 1, id: "the_bumblezone:stingless_bee_helmet_1" }
-					type: "item"
-				}
-				{
-					id: "352F02C4B73AC059"
-					item: { count: 1, id: "the_bumblezone:bumble_bee_chestplate_1" }
-					type: "item"
-				}
-				{
-					id: "167D64624D3692D4"
-					item: { components: { "the_bumblezone:honey_bee_leggings_data": { pollinated: 1b } }, count: 1, id: "the_bumblezone:honey_bee_leggings_1" }
-					type: "item"
-				}
-				{
-					id: "2884F2E2286B3036"
-					item: { count: 1, id: "the_bumblezone:carpenter_bee_boots_1" }
-					type: "item"
-				}
-			]
-			x: -8.5d
-			y: -5.5d
-		}
-		{
-			id: "1366B946928C873B"
-			optional: true
-			rewards: [{
-				id: "0D0F2C046E6231B9"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			tasks: [
-				{
-					id: "654B7DF441CF97EF"
-					item: { count: 1, id: "the_bumblezone:stingless_bee_helmet_2" }
-					type: "item"
-				}
-				{
-					id: "33218F1E54E61FA6"
-					item: { count: 1, id: "the_bumblezone:bumble_bee_chestplate_2" }
-					type: "item"
-				}
-				{
-					id: "73024C9AF01257EE"
-					item: { components: { "the_bumblezone:honey_bee_leggings_data": { pollinated: 1b } }, count: 1, id: "the_bumblezone:honey_bee_leggings_2" }
-					type: "item"
-				}
-				{
-					id: "739380A366C05388"
-					item: { count: 1, id: "the_bumblezone:carpenter_bee_boots_2" }
-					type: "item"
-				}
-			]
-			x: -8.5d
-			y: -6.5d
+			y: -6.0d
 		}
 		{
 			id: "2FA0F5B348322095"
@@ -2285,7 +1592,7 @@
 				}
 			]
 			x: -2.0d
-			y: -5.0d
+			y: -5.5d
 		}
 		{
 			id: "041ED280691BB05D"
@@ -2350,8 +1657,8 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
-			y: -8.5d
+			x: 7.5d
+			y: -7.5d
 		}
 		{
 			id: "338BD467EBE6EE1F"
@@ -2371,7 +1678,7 @@
 				item: { count: 1, id: "minecraft:sentry_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.5d
 			y: 1.5d
 		}
 		{
@@ -2392,7 +1699,7 @@
 				item: { count: 1, id: "minecraft:vex_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: 1.5d
 		}
 		{
@@ -2413,7 +1720,7 @@
 				item: { count: 1, id: "minecraft:wild_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.5d
 			y: 1.5d
 		}
 		{
@@ -2434,7 +1741,7 @@
 				item: { count: 1, id: "minecraft:coast_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.500000000000002d
 			y: 2.5d
 		}
 		{
@@ -2455,8 +1762,8 @@
 				item: { count: 1, id: "minecraft:dune_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 4.5d
+			x: -9.499999999999995d
+			y: 3.5d
 		}
 		{
 			id: "62161BDE9AAAA4BF"
@@ -2476,7 +1783,7 @@
 				item: { count: 1, id: "minecraft:wayfinder_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.499999999999995d
 			y: 2.5d
 		}
 		{
@@ -2497,7 +1804,7 @@
 				item: { count: 1, id: "minecraft:raiser_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.499999999999995d
 			y: 2.5d
 		}
 		{
@@ -2518,7 +1825,7 @@
 				item: { count: 1, id: "minecraft:shaper_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.499999999999995d
 			y: 2.5d
 		}
 		{
@@ -2539,7 +1846,7 @@
 				item: { count: 1, id: "minecraft:host_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -5.499999999999999d
 			y: 2.5d
 		}
 		{
@@ -2560,8 +1867,8 @@
 				item: { count: 1, id: "minecraft:ward_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 4.5d
+			x: -9.499999999999995d
+			y: 2.5d
 		}
 		{
 			id: "76CDF08465700AA2"
@@ -2581,8 +1888,8 @@
 				item: { count: 1, id: "minecraft:silence_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 4.5d
+			x: -9.5d
+			y: 1.5d
 		}
 		{
 			id: "66C21934DAFFAC7F"
@@ -2602,7 +1909,7 @@
 				item: { count: 1, id: "minecraft:tide_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.500000000000002d
 			y: 3.5d
 		}
 		{
@@ -2623,7 +1930,7 @@
 				item: { count: 1, id: "minecraft:snout_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.499999999999995d
 			y: 3.5d
 		}
 		{
@@ -2644,7 +1951,7 @@
 				item: { count: 1, id: "minecraft:rib_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.499999999999995d
 			y: 3.5d
 		}
 		{
@@ -2665,7 +1972,7 @@
 				item: { count: 1, id: "minecraft:eye_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.499999999999995d
 			y: 3.5d
 		}
 		{
@@ -2686,7 +1993,7 @@
 				item: { count: 1, id: "minecraft:spire_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -5.499999999999999d
 			y: 3.5d
 		}
 		{
@@ -2707,7 +2014,7 @@
 				item: { count: 1, id: "minecraft:flow_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -5.500000000000004d
 			y: 1.5d
 		}
 		{
@@ -2728,50 +2035,8 @@
 				item: { count: 1, id: "minecraft:bolt_armor_trim_smithing_template" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.500000000000007d
 			y: 1.5d
-		}
-		{
-			id: "361C9D90617E6D38"
-			optional: true
-			rewards: [{
-				count: 2
-				id: "3EBF08632A102810"
-				item: {
-					count: 1
-					id: "eternal_starlight:keeper_armor_trim_smithing_template"
-				}
-				type: "item"
-			}]
-			shape: "hexagon"
-			tasks: [{
-				id: "0A0D098A38CAB990"
-				item: { count: 1, id: "eternal_starlight:keeper_armor_trim_smithing_template" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: 4.5d
-		}
-		{
-			id: "3F0CD2C03CD7D730"
-			optional: true
-			rewards: [{
-				count: 2
-				id: "2D457AD19A78B00B"
-				item: {
-					count: 1
-					id: "eternal_starlight:forge_armor_trim_smithing_template"
-				}
-				type: "item"
-			}]
-			shape: "hexagon"
-			tasks: [{
-				id: "5A6306A622D2BFF6"
-				item: { count: 1, id: "eternal_starlight:forge_armor_trim_smithing_template" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 4.5d
 		}
 		{
 			id: "1FC7ABEAB5018E79"
@@ -2786,8 +2051,8 @@
 				item: { count: 1, id: "minecraft:redstone" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 1.5d
+			x: 11.5d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "3AA836E8EDB52097"
@@ -2802,8 +2067,8 @@
 				item: { count: 1, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 1.5d
+			x: 13.5d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "4DF683461225690F"
@@ -2818,8 +2083,8 @@
 				item: { count: 1, id: "minecraft:iron_ingot" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 3.5d
+			x: 12.5d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "3685B52446DEC809"
@@ -2835,7 +2100,7 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: 3.5d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "211FD55DEB635A98"
@@ -2850,8 +2115,8 @@
 				item: { count: 1, id: "minecraft:copper_ingot" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 3.5d
+			x: 11.503571428571451d
+			y: 3.0000000000000075d
 		}
 		{
 			id: "1D91E37BFD8CC911"
@@ -2866,8 +2131,8 @@
 				item: { count: 1, id: "minecraft:emerald" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 2.5d
+			x: 14.5d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "6B671CB07D046BEC"
@@ -2882,8 +2147,8 @@
 				item: { count: 1, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 2.5d
+			x: 13.5d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "1EABF2E7AE7B8F22"
@@ -2898,8 +2163,8 @@
 				item: { count: 1, id: "minecraft:netherite_ingot" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: 3.5d
+			x: 15.5d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "3FCEF8FF45E51608"
@@ -2914,8 +2179,8 @@
 				item: { count: 1, id: "minecraft:quartz" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: 1.5d
+			x: 14.5d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "452DC5EB02D592B8"
@@ -2930,178 +2195,8 @@
 				item: { count: 1, id: "minecraft:amethyst_shard" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: 1.5d
-		}
-		{
-			id: "72D578686C47B154"
-			optional: true
-			rewards: [{
-				id: "45E17580CCFB2497"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "1FC1155134A6CD18"
-				item: { count: 1, id: "eternal_starlight:red_starlight_crystal_shard" }
-				type: "item"
-			}]
-			x: 16.5d
-			y: 1.5d
-		}
-		{
-			id: "2D93888313B03029"
-			optional: true
-			rewards: [{
-				id: "55341BA803F79B74"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "7604AD27B50D8665"
-				item: { count: 1, id: "eternal_starlight:blue_starlight_crystal_shard" }
-				type: "item"
-			}]
-			x: 17.5d
-			y: 1.5d
-		}
-		{
-			id: "333682022948E2F3"
-			optional: true
-			rewards: [{
-				id: "34749D2D82463B89"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "611F7B6AE18204B5"
-				item: { count: 1, id: "eternal_starlight:thioquartz_shard" }
-				type: "item"
-			}]
-			x: 18.5d
-			y: 1.5d
-		}
-		{
-			id: "7B76EC62E3F7E12C"
-			optional: true
-			rewards: [{
-				id: "6C1ADF1B6F1BBF24"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "0A585E6868ED8B8E"
-				item: { count: 1, id: "eternal_starlight:aethersent_ingot" }
-				type: "item"
-			}]
-			x: 17.5d
-			y: 3.5d
-		}
-		{
-			id: "672AC964851832EB"
-			optional: true
-			rewards: [{
-				id: "3EB06C0957B5895E"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "53E8D3055F57BC80"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_ingot" }
-				type: "item"
-			}]
-			x: 18.5d
-			y: 3.5d
-		}
-		{
-			id: "6A21228B0511FF85"
-			optional: true
-			rewards: [{
-				id: "0BF87630A60C28C2"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "32B8B7FDC67AEB9D"
-				item: { count: 1, id: "eternal_starlight:thermal_springstone_ingot" }
-				type: "item"
-			}]
-			x: 19.5d
-			y: 3.5d
-		}
-		{
-			id: "42AAEC41F2BC2474"
-			optional: true
-			rewards: [{
-				id: "37AA71D404447956"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "0370427C9119331B"
-				item: { count: 1, id: "eternal_starlight:glacite_shard" }
-				type: "item"
-			}]
-			x: 19.5d
-			y: 1.5d
-		}
-		{
-			id: "756628F4B7F79446"
-			optional: true
-			rewards: [{
-				id: "048122844E56B6AE"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "5B674D7133C6F38D"
-				item: { count: 1, id: "eternal_starlight:amaramber_ingot" }
-				type: "item"
-			}]
-			x: 16.5d
-			y: 3.5d
-		}
-		{
-			id: "05B5E640F1B68A28"
-			optional: true
-			rewards: [{
-				id: "1795D00DE70B3AFB"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "766133F757184296"
-				item: { count: 1, id: "eternal_starlight:golem_steel_ingot" }
-				type: "item"
-			}]
-			x: 17.0d
-			y: 2.5d
-		}
-		{
-			id: "3B4511E7DC788AB3"
-			optional: true
-			rewards: [{
-				id: "196F0DEA920C3DEF"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "2252C19CFA6C4B9D"
-				item: { count: 1, id: "eternal_starlight:tenacious_petal" }
-				type: "item"
-			}]
-			x: 19.0d
-			y: 2.5d
+			x: 15.5d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "5E7CCDE9229A646A"
@@ -3116,8 +2211,8 @@
 				item: { count: 1, id: "allthemodium:allthemodium_ingot" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 1.5d
+			x: 16.5d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "5A9C646718EE92C2"
@@ -3132,8 +2227,8 @@
 				item: { count: 1, id: "allthemodium:vibranium_ingot" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 2.5d
+			x: 16.5d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "7279700A93E8630B"
@@ -3148,8 +2243,8 @@
 				item: { count: 1, id: "allthemodium:unobtainium_ingot" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 3.5d
+			x: 17.5d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "788A7A2F1F438B64"
@@ -3165,8 +2260,8 @@
 				item: { count: 1, id: "undergarden:cloggrum_ingot" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 4.75d
+			x: 20.50000000000001d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "16359196D49A6223"
@@ -3182,8 +2277,8 @@
 				item: { count: 1, id: "undergarden:froststeel_ingot" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 4.75d
+			x: 21.50000000000001d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "690DB8BEF80617E5"
@@ -3199,8 +2294,8 @@
 				item: { count: 1, id: "undergarden:utherium_crystal" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 4.75d
+			x: 22.50000000000001d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "498483750C18FCD6"
@@ -3216,8 +2311,8 @@
 				item: { count: 1, id: "undergarden:regalium_crystal" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 4.75d
+			x: 21.50000000000001d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "5E6D7C1D7957DD4D"
@@ -3233,8 +2328,8 @@
 				item: { count: 1, id: "undergarden:forgotten_ingot" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: 4.75d
+			x: 22.50000000000001d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "1C27C74722A19FC1"
@@ -3267,7 +2362,7 @@
 					type: "item"
 				}
 			]
-			x: 22.0d
+			x: 21.75d
 			y: -6.75d
 		}
 		{
@@ -3307,7 +2402,7 @@
 				}
 			]
 			x: 3.5d
-			y: 6.0d
+			y: 5.5d
 		}
 		{
 			id: "3215A3D706CECCEF"
@@ -3340,7 +2435,7 @@
 				}
 			]
 			x: 2.0d
-			y: -7.0d
+			y: -6.5d
 		}
 		{
 			id: "30A61E1A1EFA81E6"
@@ -3372,7 +2467,7 @@
 					type: "item"
 				}
 			]
-			x: 6.5d
+			x: 8.0d
 			y: -3.5d
 		}
 		{
@@ -3405,7 +2500,7 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
+			x: 6.0d
 			y: -3.5d
 		}
 		{
@@ -3472,7 +2567,7 @@
 				}
 			]
 			x: 2.0d
-			y: -5.0d
+			y: -5.5d
 		}
 		{
 			id: "52A29269A23F85B3"
@@ -3505,7 +2600,7 @@
 				}
 			]
 			x: 8.0d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
 			id: "34D14B807A2DAC0F"
@@ -3538,7 +2633,7 @@
 					type: "item"
 				}
 			]
-			x: 22.0d
+			x: 21.75d
 			y: -5.25d
 		}
 		{
@@ -3555,8 +2650,8 @@
 				item: { count: 1, id: "twilightforest:ironwood_ingot" }
 				type: "item"
 			}]
-			x: 15.5d
-			y: 4.75d
+			x: 17.5d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "140DF670162C68DA"
@@ -3572,8 +2667,8 @@
 				item: { count: 1, id: "twilightforest:steeleaf_ingot" }
 				type: "item"
 			}]
-			x: 16.5d
-			y: 4.75d
+			x: 18.50000000000001d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "7FBC64E6408D8D7F"
@@ -3589,8 +2684,8 @@
 				item: { count: 1, id: "twilightforest:knightmetal_ingot" }
 				type: "item"
 			}]
-			x: 17.5d
-			y: 4.75d
+			x: 20.50000000000001d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "1D23F53C585185B7"
@@ -3606,8 +2701,8 @@
 				item: { count: 1, id: "twilightforest:naga_scale" }
 				type: "item"
 			}]
-			x: 18.5d
-			y: 4.75d
+			x: 18.50000000000001d
+			y: 3.0000000000000004d
 		}
 		{
 			id: "606775701551F3EE"
@@ -3623,8 +2718,8 @@
 				item: { count: 1, id: "twilightforest:carminite" }
 				type: "item"
 			}]
-			x: 19.5d
-			y: 4.75d
+			x: 19.50000000000001d
+			y: 1.8000000000000003d
 		}
 		{
 			id: "7F8B6D5F360D985A"
@@ -3640,8 +2735,8 @@
 				item: { count: 1, id: "twilightforest:fiery_ingot" }
 				type: "item"
 			}]
-			x: 20.5d
-			y: 4.75d
+			x: 19.50000000000001d
+			y: 3.0000000000000004d
 		}
 	]
 }
