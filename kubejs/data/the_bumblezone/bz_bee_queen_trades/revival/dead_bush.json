@@ -16,13 +16,6 @@
       "required": true
     },
     {
-      "tag": "the_bumblezone:tradeable_saplings",
-      "count_output_for_tags": 1,
-      "xp_reward": 0,
-      "weight": 2,
-      "required": true
-    },
-    {
       "item": {
         "id": "minecraft:rose_bush",
         "count": 1

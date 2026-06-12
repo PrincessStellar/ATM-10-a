@@ -160,11 +160,9 @@ ServerEvents.tags('entity_type', allthemods => {
     "forbidden_arcanus:corrupt_lost_soul",
     "forbidden_arcanus:lost_soul",
     "forbidden_arcanus:enchanted_lost_soul",
-    "evilcraft:vengeance_spirit",
-    "the_bumblezone:bee_queen"
+    "evilcraft:vengeance_spirit"
   ])
   
-  allthemods.add('ars_nouveau:jar_blacklist', "the_bumblezone:bee_queen")
   allthemods.add('apothic_spawners:blacklisted_from_spawners', '#allthemods:jank_blacklist')
   allthemods.add('enderio:soul_vial_blacklist', '#allthemods:jank_blacklist')
   allthemods.add('industrialforegoing:mob_duplicator_blacklist', '#allthemods:jank_blacklist')

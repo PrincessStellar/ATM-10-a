@@ -45,12 +45,6 @@ ServerEvents.recipes(allthemods => {
             'ingot': '#c:ingots/iesnium',
             'raw': '#c:raw_materials/iesnium',
             'amount': 100
-        },
-        'mithril_sulfur': {
-            'ore': '#c:ores/mithril',
-            'ingot': '#c:ingots/mithril',
-            'raw': '#c:raw_materials/mithril',
-            'amount': 20
         }
     }
 

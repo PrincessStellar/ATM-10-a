@@ -61,7 +61,6 @@ ServerEvents.recipes(allthemods => {
     squeezer('#c:ores/runic', 'forbidden_arcanus:rune');
     squeezer('#c:ores/inferium', 'mysticalagriculture:inferium_essence');
     squeezer('#c:ores/prosperity', 'mysticalagriculture:prosperity_shard');
-    squeezer('#c:ores/bort', 'silentgear:bort');
     squeezer('#c:ores/sal_ammoniac', 'theurgy:sal_ammoniac_crystal');
     //squeezer('#c:ores/uraninite', 'powah:uraninite_raw');
 

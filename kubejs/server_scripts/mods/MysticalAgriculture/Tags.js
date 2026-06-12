@@ -41,7 +41,6 @@ ServerEvents.tags('block', allthemods => {
         allthemods.add('cucumber:mineable/sickle', seeds.replace('seeds', 'crop'))
         allthemods.add('silentgear:mineable/sickle', seeds.replace('seeds', 'crop'))
         allthemods.add('minecraft:crops', seeds.replace('seeds', 'crop'))
-        allthemods.add('the_bumblezone:essence/life/grow_plants', seeds.replace('seeds', 'crop'))
         allthemods.add('minecraft:bee_growables', seeds.replace('seeds', 'crop'))
         allthemods.add('mysticalagriculture:crops', seeds.replace('seeds', 'crop'))
         allthemods.add('pneumaticcraft:crop_support_growable', seeds.replace('seeds', 'crop'))
