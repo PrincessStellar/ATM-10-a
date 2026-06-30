@@ -1,6 +1,6 @@
-All The Mods 10
+All The Mods 10 - Aeronautics Edition
 ======
-This is the official repository and issue-tracker for All The Mods 10 1.21.1
+This is the official repository and issue-tracker for All The Mods 10 - Aeronautics 1.21.1
 
 Does "All The Mods" *really* contain ALL THE MODS? No, of course not.
 
