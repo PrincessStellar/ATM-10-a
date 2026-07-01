@@ -88,7 +88,7 @@
 		"{image:atm:textures/questpics/chap3/creative_enchanter6.png width:125 height:125 align:center}"
 		"次に&5&lRunic Enchanter&rの上に小さな構造物を4つ作ります！&6Deepshelf of Arcane Treasures&rを置き、その上下に&9Polished Darkstone Wall&rを配置します。それらの壁の上下にEbony Fence（&l&aBWG&rから）を置き、一番下のフェンスの下にソウルランタンを置きます。これらは角の&6Gilded Darkstone&r（&aController&rの右側を除く）の3ブロック上と&7Quantum Injector&rの2ブロック上に設置します"
 		"{image:atm:textures/questpics/chap3/creative_enchanter7.png width:125 height:150 align:center}"
-		"次に、とても似た構造物を作りますが、Ebony FenceをLunar Fence（&5&lEternal Starlight&rから）に置き換えます。これらは&aController&rの右側の&6Gilded Darkstone&rの3ブロック上と、2層目の&6Gilded Darkstone&rの3ブロック上に設置します！2層目の上のものは、本棚の代わりにHatchを設置する場所になります！"
+		"次に、とても似た構造物を作りますが、Ebony FenceをLunar Fence に置き換えます。これらは&aController&rの右側の&6Gilded Darkstone&rの3ブロック上と、2層目の&6Gilded Darkstone&rの3ブロック上に設置します！2層目の上のものは、本棚の代わりにHatchを設置する場所になります！"
 	]
 	quest.360B150190A5C894.title: "&5&lRunic Enchanter"
 	quest.36ABE142039E712B.quest_desc: ["これは通常の無限エネルギー貯蔵のように機能しますが、システムに接続できます！システムに十分な電力があるかどうか心配する必要はありません！&5Quantum Armor&rも含めてです。\n\n4つの&dSuperdense Cell&rと&6&lATM Star&rが必要です。各&dSuperdense Cell&rには8つの&dDense Cell&rが必要で、各&dDense Cell&rには8つの&dEnergy Cell&rが必要です。\n\n256個の&dEnergy Cell&r...そしてたくさんのエネルギーが必要です！"]

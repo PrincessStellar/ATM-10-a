@@ -271,7 +271,7 @@
 		"{image:atm:textures/questpics/immersive/immersive_alloy.png width:100 height:100 align:center}"
 	]
 	quest.4BBF987FEF639801.title: "&l&6Alloy Kiln"
-	quest.4C4C9ADAC6107F89.quest_desc: ["The &eLight Engineering Block&r is pretty easy recipe. \\n\\nYou'll need 1 &6Copper Ingot&r, which I shouldn't have to explain it's literally a &2&lVanilla&r feature. \\n\\n4 &7Ironsheetmetal&r, which are just 4 &7Iron Plates&r combined with each other! \\n\\nYou'll also need 4 &7Iron Mechanical Components&r, which are either 4 &7Iron Plates&r and a &6Copper Ingot&r in a Crafting Table, or 2 &7Iron Plates&r and a &6Copper Ingot&r in the &6Engineer's Workbench&r."]
+	quest.4C4C9ADAC6107F89.quest_desc: ["The &eLight Engineering Block&r is pretty easy recipe. \\n\\nYou'll need 1 &6Copper Ingot&r, which I shouldn't have to explain it's literally a &2&lVanilla&r feature. \\n\\n4 &7Iron Sheetmetal&r, which are just 4 &7Iron Plates&r combined with each other! \\n\\nYou'll also need 4 &7Iron Mechanical Components&r, which are either 4 &7Iron Plates&r and a &6Copper Ingot&r in a Crafting Table, or 2 &7Iron Plates&r and a &6Copper Ingot&r in the &6Engineer's Workbench&r."]
 	quest.4C4C9ADAC6107F89.title: "&eLight Engineering Block"
 	quest.4D193D60A3CAF435.quest_desc: [
 		"This is the Generator you will most likely be using, the &2&lDiesel Generator&r! \\n\\nYou will &9Input&r Fuel in the bottom left and right corners of the &2&lDiesel Generator&r. The Fuel can be: Creasote Oil, Biodiesel, and High-Cetane Biodiesel. Those are in order from worst to best! \\n\\nThe &2&lDiesel Generator&r will burn the Fuel and produce &cEnergy&r which can be &6Output&r from the 3 connectors in the front."

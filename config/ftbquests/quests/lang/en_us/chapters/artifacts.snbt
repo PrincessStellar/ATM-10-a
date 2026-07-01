@@ -47,7 +47,7 @@
 	quest.2AD78E22988A92D3.quest_desc: ["I see you! \\n\\nWhen wearing &2Night Vision Goggles&r you get the ability to see in the dark! Not much else to them..."]
 	quest.2AD78E22988A92D3.quest_subtitle: "Head"
 	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles"
-	quest.321F16645640C462.quest_desc: ["Enderpearls are a fun way of travel! (Helpful for the Bumblezone, I wonder if we'll get a Quest chapter for that Mod!) But don't you hate that the Enderpearl gets consumed on use and takes 2 Hearts of damage with each use? \\n\\nWith &9Warp Drive&r that all goes away, clearly making Enderpearls the greatest transportation! Hunger gets consumed instead of the Enderpearl and no longer take damage from using an Enderpearl. When all Hunger Bars are depleted it will go back to consuming Enderpearls."]
+	quest.321F16645640C462.quest_desc: ["Enderpearls are a fun way of travel! But don't you hate that the Enderpearl gets consumed on use and takes 2 Hearts of damage with each use? \\n\\nWith &9Warp Drive&r that all goes away, clearly making Enderpearls the greatest transportation! Hunger gets consumed instead of the Enderpearl and no longer take damage from using an Enderpearl. When all Hunger Bars are depleted it will go back to consuming Enderpearls."]
 	quest.321F16645640C462.quest_subtitle: "Belt"
 	quest.321F16645640C462.title: "&9Warp Drive&r"
 	quest.3446803FB59D8875.quest_desc: ["Gives you Thorns. Not your Armor, you! Like a Pufferfish!"]

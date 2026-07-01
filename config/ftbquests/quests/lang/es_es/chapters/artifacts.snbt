@@ -47,7 +47,7 @@
 	quest.2AD78E22988A92D3.quest_desc: ["¡Te veo! \\n\\n¡Cuando llevas puestas las &2Gafas de Visión Nocturna&r obtienes la habilidad de ver en la oscuridad! No hay mucho más en ellas..."]
 	quest.2AD78E22988A92D3.quest_subtitle: "Cabeza"
 	quest.2AD78E22988A92D3.title: "&2Gafas de Visión Nocturna"
-	quest.321F16645640C462.quest_desc: ["¡Las Perlas de Ender son una forma divertida de viajar! (¡Útil para el Bumblezone, me pregunto si tendremos un capítulo de Misión para ese Mod!) Pero ¿no odias que la Perla de Ender se consuma al usarla y quite 2 Corazones de daño con cada uso? \\n\\n¡Con el &9Motor de Curvatura&r todo eso desaparece, haciendo claramente a las Perlas de Ender el mejor transporte! El Hambre se consume en lugar de la Perla de Ender y ya no recibes daño por usar una Perla de Ender. Cuando todas las Barras de Hambre se agoten volverá a consumir Perlas de Ender."]
+	quest.321F16645640C462.quest_desc: ["¡Las Perlas de Ender son una forma divertida de viajar! Pero ¿no odias que la Perla de Ender se consuma al usarla y quite 2 Corazones de daño con cada uso? \\n\\n¡Con el &9Motor de Curvatura&r todo eso desaparece, haciendo claramente a las Perlas de Ender el mejor transporte! El Hambre se consume en lugar de la Perla de Ender y ya no recibes daño por usar una Perla de Ender. Cuando todas las Barras de Hambre se agoten volverá a consumir Perlas de Ender."]
 	quest.321F16645640C462.quest_subtitle: "Cinturón"
 	quest.321F16645640C462.title: "&9Motor de Curvatura&r"
 	quest.3446803FB59D8875.quest_desc: ["Te da Espinas. ¡No tu Armadura, tú! ¡Como un Pez Globo!"]

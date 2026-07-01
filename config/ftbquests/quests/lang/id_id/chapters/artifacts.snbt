@@ -47,7 +47,7 @@
 	quest.2AD78E22988A92D3.quest_desc: ["Aku melihatmu! \\n\\nSaat memakai &2Night Vision Goggles&r, kamu bisa melihat di dalam kegelapan! Nggak ada fungsi lain sih..."]
 	quest.2AD78E22988A92D3.quest_subtitle: "Kepala"
 	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles"
-	quest.321F16645640C462.quest_desc: ["Enderpearl itu cara transportasi yang seru! (Sangat membantu di Bumblezone). Tapi sebel nggak sih kalau Enderpearl-nya habis pas dipakai dan kamu kena damage 2 heart tiap kali teleportasi? \\n\\nDengan &9Warp Drive&r, masalah itu hilang, bikin Enderpearl jadi alat transportasi terbaik! Bar lapar (Hunger) bakal berkurang sebagai ganti Enderpearl dan kamu nggak kena damage lagi. Kalau bar lapar habis, barulah dia mulai makan Enderpearl lagi."]
+	quest.321F16645640C462.quest_desc: ["Enderpearl itu cara transportasi yang seru! Tapi sebel nggak sih kalau Enderpearl-nya habis pas dipakai dan kamu kena damage 2 heart tiap kali teleportasi? \\n\\nDengan &9Warp Drive&r, masalah itu hilang, bikin Enderpearl jadi alat transportasi terbaik! Bar lapar (Hunger) bakal berkurang sebagai ganti Enderpearl dan kamu nggak kena damage lagi. Kalau bar lapar habis, barulah dia mulai makan Enderpearl lagi."]
 	quest.321F16645640C462.quest_subtitle: "Sabuk"
 	quest.321F16645640C462.title: "&9Warp Drive&r"
 	quest.3446803FB59D8875.quest_desc: ["Memberimu efek Thorns. Bukan di armor, tapi di badanmu sendiri! Kayak ikan buntal!"]
